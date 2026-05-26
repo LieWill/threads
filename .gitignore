@@ -1,0 +1,35 @@
+# ==========================================
+# C++ Build Artifacts
+# ==========================================
+*.o
+*.obj
+*.d
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+build/
+parallel-algorithms/build/
+
+# ==========================================
+# IDEs, Editors and System Metadata
+# ==========================================
+.vscode/
+.idea/
+.agents/
+.codex/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ==========================================
+# Papers and Unrelated Markdown Files
+# ==========================================
+论文-基于线程池的C++并行算法库设计与实现.md
+论文-*.md
+*论文*
